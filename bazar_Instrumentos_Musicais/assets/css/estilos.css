@@ -1,0 +1,19 @@
+.menu {
+    list-style: none;
+}
+.menu li{
+    text-decoration: none;
+    display: inline;
+    padding: 20px;
+}
+.menu li a{
+    text-decoration: none;
+    color:black;
+}
+.menu__principal {
+    float: right;
+}
+.leiaute-cabecalho {
+    border-radius: 20px 20px 20px 20px;
+    border: solid black;
+}
